@@ -1,2 +1,4 @@
 adding two numbers 1+1
 subtracting two numbers 2-1
+multiplying two numbers 2*2
+dividing  numbers 10/2
